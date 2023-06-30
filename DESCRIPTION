@@ -1,0 +1,11 @@
+Package: mapSeverityScores
+Version: 0.1
+Date: 2022-06-30
+Title: mapSeverityScores
+Authors@R:
+    person(given="Matthias", family="Hübenthal", role=c("aut", "cre"), email="mhuebenthal@dermatology.uni-kiel.de")
+Description: mapSeverityScores
+Encoding: UTF-8
+RdMacros: Rdpack
+RoxygenNote: 7.2.3
+Depends: R (>= 2.10)
